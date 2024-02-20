@@ -3,18 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+is+Vitor!+)](https://git.io/typing-svg)
 
 <!-- My Description --> 
-## Dev C# adquirindo experiência...
-
-<br>
+## Dev adquirindo experiência...
 
 <!-- My Languages --> 
 ## Languages
 <p align="left">
-  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vitor-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vitor-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
-
-</br>
-</br>
 
 <!-- My Social --> 
 ## Social
